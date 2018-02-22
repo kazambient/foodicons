@@ -1,0 +1,205 @@
+.floatimg{
+	float:right;
+	
+}
+.foodico32{
+	float:left;
+	width: 32px;
+	height: 32px;
+	background-image: url('foodicon64.png');
+	background-repeat:no-repeat;
+	background-size: 256px 256px;
+
+}
+.hat {
+background-position: -224px 0px;
+}
+.burger{
+background-position: -0px 0px;
+}
+.hotdog {
+background-position: -32px 0px;
+}
+.pizza{
+background-position: -64px 0px;
+}
+.fries{
+background-position: -96px 0px;
+}
+.hoagie{
+background-position: -128px 0px;
+}
+.egg{
+background-position: -160px 0px;
+}
+.hegg{
+background-position: -192px 0px;
+}
+.grapes{
+background-position: -0px -32px;
+}
+.pear{
+background-position: -32px -32px;
+}
+.strawberry{
+background-position: -64px -32px;
+}
+.apple{
+background-position: -96px -32px;
+}
+.orange{
+background-position: -128px -32px;	
+}
+.avocado{
+background-position: -160px -32px;	
+}
+.wine{
+background-position: -192px -32px;	
+}
+.beer{
+background-position: -224px -32px;	
+}
+.onion{
+background-position: -0px -64px;
+}
+.carrot{
+background-position: -32px -64px;
+}
+.cheese{
+background-position: -64px -64px;
+}
+.bread{
+background-position: -96px -64px;
+}
+.toaster{
+background-position: -128px -64px;	
+}
+.milk{
+background-position: -160px -64px;	
+}
+.drinks{
+background-position: -192px -64px;	
+}
+.sadbeer{
+background-position: -224px -64px;	
+}
+.cone{
+background-position: -0px -96px;
+}
+.cupcake{
+background-position: -32px -96px;
+}
+.cake{
+background-position: -64px -96px;
+}
+.doughnut{
+background-position: -96px -96px;
+}
+.redpep{
+background-position: -128px -96px;	
+}
+.blackpep{
+background-position: -160px -96px;	
+}
+.salt{
+background-position: -192px -96px;	
+}
+.margarita{
+background-position: -224px -96px;	
+}
+.asiannoodle{
+background-position: -0px -128px;
+}
+.sardine{
+background-position: -32px -128px;
+}
+.sushi{
+background-position: -64px -128px;
+}
+.soysauce{
+background-position: -96px -128px;
+}
+.salad{
+background-position: -128px -128px;	
+}
+.fish{
+background-position: -160px -128px;	
+}
+.mixedpep{
+background-position: -192px -128px;	
+}
+.martini{
+background-position: -224px -128px;	
+}
+.coffeegrinder{
+background-position: -0px -160px;
+}
+.coffeepress{
+background-position: -32px -160px;
+}
+.espressofull{
+background-position: -64px -160px;
+}
+.espressoempty{
+background-position: -96px -160px;
+}
+.coffeecup{
+background-position: -128px -160px;	
+}
+.teacup{
+background-position: -160px -160px;	
+}
+.honeylite{
+background-position: -192px -160px;	
+}
+.honey{
+background-position: -224px -160px;	
+}
+.clever{
+background-position: -0px -192px;
+}
+.forkspoon{
+background-position: -32px -192px;
+}
+.cuttingboard{
+background-position: -64px -192px;
+}
+.grater{
+background-position: -96px -192px;
+}
+.pizzawheel{
+background-position: -128px -192px;	
+}
+.ovenmitt{
+background-position: -160px -192px;	
+}
+.stockpot{
+background-position: -192px -192px;	
+}
+.empty{
+background-position: -224px -192px;	
+}
+.kettle{
+background-position: -0px -224px;
+}
+.microwave{
+background-position: -32px -224px;
+}
+.coffeepot{
+background-position: -64px -224px;
+}
+.handmixer{
+background-position: -96px -224px;
+}
+.standmixer{
+background-position: -128px -224px;	
+}
+.scale{
+background-position: -160px -224px;	
+}
+.refer{
+background-position: -192px -224px;	
+}
+.blender{
+background-position: -224px -224px;	
+}
